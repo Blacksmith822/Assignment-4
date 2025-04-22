@@ -1,0 +1,13 @@
+F:\MSU\Research Group\Experiment\SupermarketReceipt\SupermarketReceipt\bin\Debug\net6.0\SupermarketReceipt.deps.json
+F:\MSU\Research Group\Experiment\SupermarketReceipt\SupermarketReceipt\obj\Debug\net6.0\SupermarketReceipt.GeneratedMSBuildEditorConfig.editorconfig
+F:\MSU\Research Group\Experiment\SupermarketReceipt\SupermarketReceipt\obj\Debug\net6.0\SupermarketReceipt.AssemblyInfoInputs.cache
+F:\MSU\Research Group\Experiment\SupermarketReceipt\SupermarketReceipt\obj\Debug\net6.0\SupermarketReceipt.AssemblyInfo.cs
+F:\MSU\Research Group\Experiment\SupermarketReceipt\SupermarketReceipt\bin\Debug\net6.0\SupermarketReceipt.dll
+F:\MSU\Research Group\Experiment\SupermarketReceipt\SupermarketReceipt\bin\Debug\net6.0\SupermarketReceipt.pdb
+F:\MSU\Research Group\Experiment\SupermarketReceipt\SupermarketReceipt\obj\Debug\net6.0\SupermarketReceipt.csproj.AssemblyReference.cache
+F:\MSU\Research Group\Experiment\SupermarketReceipt\SupermarketReceipt\obj\Debug\net6.0\SupermarketReceipt.csproj.CoreCompileInputs.cache
+F:\MSU\Research Group\Experiment\SupermarketReceipt\SupermarketReceipt\obj\Debug\net6.0\SupermarketReceipt.sourcelink.json
+F:\MSU\Research Group\Experiment\SupermarketReceipt\SupermarketReceipt\obj\Debug\net6.0\SupermarketReceipt.dll
+F:\MSU\Research Group\Experiment\SupermarketReceipt\SupermarketReceipt\obj\Debug\net6.0\refint\SupermarketReceipt.dll
+F:\MSU\Research Group\Experiment\SupermarketReceipt\SupermarketReceipt\obj\Debug\net6.0\SupermarketReceipt.pdb
+F:\MSU\Research Group\Experiment\SupermarketReceipt\SupermarketReceipt\obj\Debug\net6.0\ref\SupermarketReceipt.dll

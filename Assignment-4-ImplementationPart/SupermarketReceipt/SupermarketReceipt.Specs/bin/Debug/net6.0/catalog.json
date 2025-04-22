@@ -1,0 +1,17 @@
+{
+  "Rice": {
+    "ProductId": "Rice",
+    "UnitPrice": 2.49,
+    "Deal": null
+  },
+  "Milk": {
+    "ProductId": "Milk",
+    "UnitPrice": 1.29,
+    "Deal": null
+  },
+  "Toothbrush": {
+    "ProductId": "Toothbrush",
+    "UnitPrice": 0.99,
+    "Deal": null
+  }
+}
